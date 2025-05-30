@@ -1,4 +1,4 @@
-# 🧠 Financial News Sentiment & Stock Correlation Analysis
+# Financial News Sentiment & Stock Correlation Analysis
 
 This project focuses on analyzing financial news headlines to extract sentiment signals and explore their correlation with stock market movements. Designed as a multi-disciplinary challenge, it emphasizes **Data Engineering (DE)**, **Financial Analytics (FA)**, and **Machine Learning Engineering (MLE)** within a high-pressure, real-world financial context.
 
